@@ -16,7 +16,7 @@ export default defineConfig({
   ],
 
   markdown: {
-    image: { lazyLoading: true },
+    image: { lazyLoad: true },
     lineNumbers: true
   },
 
