@@ -2,3 +2,9 @@ node_modules
 .DS_Store
 .vitepress/dist
 .vitepress/cache
+.env
+.env.*
+!.env.example
+*.swp
+.idea/
+.vscode/
